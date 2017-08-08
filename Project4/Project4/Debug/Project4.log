@@ -1,0 +1,18 @@
+﻿  Vert.cpp
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(58): warning C4129: '=': unrecognized character escape sequence
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(101): error C2065: 'a': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(107): error C2065: 'a': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(115): error C2065: 'q': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(121): error C2065: 'q': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(147): warning C4129: '=': unrecognized character escape sequence
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(235): error C2065: 'a': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(239): error C2065: 'q': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(269): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(316): error C2065: 'a': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(319): error C2065: 'a': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(323): error C2065: 'q': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(323): error C2065: 'a': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(326): error C2065: 'q': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(329): error C2065: 'q': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project4\project4\vert.cpp(329): error C2065: 'a': undeclared identifier

@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(20): error C2601: 'getdec': local function definitions are illegal
+  c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(7): note: this line contains a '{' which has not yet been matched
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(25): error C2065: 'input': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(25): error C2228: left of '.length' must have class/struct/union
+  c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(25): note: type is 'unknown-type'
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(27): error C2065: 'input': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(27): error C2065: 'sum': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(29): error C2065: 'sum': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(29): error C2065: 'input': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(29): error C2059: syntax error: ']'
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(30): error C2065: 'input': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(34): error C2065: 'sum': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(34): error C2065: 'input': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(35): error C2065: 'input': undeclared identifier
+c:\users\jacob\documents\visual studio 2015\projects\project1\project1\source.cpp(38): error C2065: 'sum': undeclared identifier
